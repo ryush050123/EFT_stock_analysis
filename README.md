@@ -1,5 +1,5 @@
 # Quant_Price_Data_Crawling
-주식/ETF OHLCV 및 분 단위 데이터 수집
+주식/ETF OHLCV 및 분 단위 간단한 데이터 수집
 
 ## ETF_minute_Data
 ### get_Data.py
